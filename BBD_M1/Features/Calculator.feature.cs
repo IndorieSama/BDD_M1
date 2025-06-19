@@ -27,10 +27,7 @@ namespace BBD_M1.Features
         private string[] _featureTags = ((string[])(null));
         
         private Xunit.Abstractions.ITestOutputHelper _testOutputHelper;
-        
-#line 1 "Calculator.feature"
-#line hidden
-        
+
         public CalculatriceFeature(CalculatriceFeature.FixtureData fixtureData, BBD_M1_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
         {
             this._testOutputHelper = testOutputHelper;

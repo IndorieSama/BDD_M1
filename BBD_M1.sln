@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBD_M1", "BBD_M1\BBD_M1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{B6F09587-C1EF-4A6D-9008-05EA4850A8D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDD_M1_TP2", "..\BDD_M1_TP2\BDD_M1_TP2\BDD_M1_TP2.csproj", "{0CE17E11-94AD-4848-AC1A-EE39564E79C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back_Voting", "..\BDD_M1_TP2\Back_Voting\Back_Voting.csproj", "{56EE3BE7-09D9-4B6D-9CA6-121E19E28D76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{B6F09587-C1EF-4A6D-9008-05EA4850A8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6F09587-C1EF-4A6D-9008-05EA4850A8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6F09587-C1EF-4A6D-9008-05EA4850A8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE17E11-94AD-4848-AC1A-EE39564E79C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE17E11-94AD-4848-AC1A-EE39564E79C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE17E11-94AD-4848-AC1A-EE39564E79C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE17E11-94AD-4848-AC1A-EE39564E79C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56EE3BE7-09D9-4B6D-9CA6-121E19E28D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EE3BE7-09D9-4B6D-9CA6-121E19E28D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EE3BE7-09D9-4B6D-9CA6-121E19E28D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EE3BE7-09D9-4B6D-9CA6-121E19E28D76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
